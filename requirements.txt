@@ -1,0 +1,5 @@
+Pillow==10.2.0         # Image processing library for handling PNG, BMP, etc.
+numpy==1.26.4         # Numerical operations for image manipulation
+opencv-python==4.9.0.80  # OpenCV for image processing
+tk==0.1.0             # Tkinter for GUI (Pre-installed with Python)
+
