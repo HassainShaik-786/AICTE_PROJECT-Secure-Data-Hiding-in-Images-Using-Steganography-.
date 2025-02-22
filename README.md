@@ -32,18 +32,18 @@ AICTE_PROJECT-Secure-Data-Hiding-in-Images-Using-Steganography-/
   
 ## 🚀 Installation  
 ### 1️⃣ Clone the repository  
-
-git clone https://github.com/HassainShaik-786/AICTE_PROJECT-Secure-Data-Hiding-in-Images-Using-Steganography-./.git  
-cd AICTE_PROJECT Secure Data Hiding in Images Using Steganography
-
+```
+  git clone https://github.com/HassainShaik-786/AICTE_PROJECT-Secure-Data-Hiding-in-Images-Using-Steganography-./.git  
+  cd AICTE_PROJECT Secure Data Hiding in Images Using Steganography
+```
 ### 2️⃣ Install dependencies
-
-pip install -r requirements.txt
-
+```
+  pip install -r requirements.txt
+```
 ### 3️⃣ Run the application
-
-python stegoGUI.py
-
+```
+  python stegoGUI.py
+```
 ## 🎯 How to Use 
 1️⃣ Open the application  
 2️⃣ Select an image to encode a message  
